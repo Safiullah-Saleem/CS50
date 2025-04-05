@@ -20,5 +20,5 @@ This repository contains solutions, thoughts, and explanations for some of the p
 
 ---
 
-## 📁 Folder Structure
+
 
