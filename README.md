@@ -11,14 +11,12 @@ This repository contains solutions, thoughts, and explanations for some of the p
 
 ---
 
-## 🔍 What’s Inside
+## 👥 Team Members
 
-- ✅ Puzzle Solutions (with reasoning)
-- 📝 Notes & Approach
-- 🧠 Thought Process & Strategies
-- 💬 Comments on Difficulty & Collaboration
-
----
+- [Safiullah Saleem](https://www.linkedin.com/in/safiullah-saleem-51a0912a1/)
+- [M. Fahad Bashir](https://www.linkedin.com/in/mfahadbashir/)
+- [Fouzia Akbar](https://www.linkedin.com/in/fouzia-akbar-data-analyst/)
+- [Shumail Khan](https://www.linkedin.com/in/shumail-khan-265882271/)
 
 
 
